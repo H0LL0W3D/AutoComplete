@@ -1,4 +1,4 @@
-- - - - - - - - - - - - - - - Assignment #2: AutoComplete - - - - - - - - - - - -
+Assignment #2: AutoComplete
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Stubs provided by Travis Wheeler
