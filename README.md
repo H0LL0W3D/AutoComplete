@@ -1,7 +1,7 @@
 Assignment #2: AutoComplete
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Stubs provided by Travis Wheeler
+Stubs provided by Travis Wheeler, Doug Brinkerhoff
 
 Implementation done by Jacob Olson
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
